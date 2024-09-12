@@ -1,1 +1,2 @@
-Project is a Jupyter Notebook hosted as a github html page
+*Project is a Jupyter Notebook deployed as a GitHub html page*
+
