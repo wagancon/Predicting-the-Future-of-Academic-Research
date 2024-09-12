@@ -1,1 +1,1 @@
-# 320-final-project
+Project is a Jupyter Notebook hosted as a github html page
